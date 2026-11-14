@@ -77,9 +77,12 @@ Quy ước nhãn đầy đủ: `docs/GUIDELINE.md`. Phím tắt: `docs/CVAT_CHEA
   - [ ] Mỗi dòng trong bảng có loại lỗi đúng tên trong danh sách 7 mã.
   - [ ] Mọi lỗi đã ghi đều có cột "Đã sửa?" là có, hoặc có lý do vì sao không sửa.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 70fc2d08aa239ad4a1a71443ecc0e5900e2c79ce
 ---
 
 ## CP4 — Xuất file, chạy script tự kiểm, hoàn thành báo cáo (phút 170–195, 25′)
